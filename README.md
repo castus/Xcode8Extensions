@@ -18,5 +18,9 @@ Xcode's source editor extension to duplicate selected line or lines.
 
 *Notice*：Currently the Source Editor Extension feature in Xcode 8 Beta is very unstable. You may find that the command is sometimes not showing up, or not available (grayed out).
 
+# Xcode 7 version
+Available here https://github.com/castus/xcode-duplicate-line
+
+
 # License
 MIT License. See the LICENSE file for more information.
