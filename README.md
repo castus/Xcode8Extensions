@@ -1,6 +1,9 @@
 # Duplicate Line
 Xcode's source editor extension to duplicate selected line or lines.
 
+![Duplicate line plugin presentation](https://raw.githubusercontent.com/castus/Xcode8Extensions/master/cover.gif)
+
+
 ## Usage:
 
 1. Install Xcode 8
